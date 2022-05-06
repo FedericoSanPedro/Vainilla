@@ -1,0 +1,7 @@
+
+8: crear codigo html en los retornos dentro de js para crear botones que se basan en un atributo y se crean nuevos si es que hay diferentes o objetos que se creara uno nuevo sin tener que hacer nada en el html
+,poder crearle atributos nuevos a un objeto sin tener que borrarle los actuales. muchas cosas
+
+13: totalmente inutil
+14: muy largo, verlo varias veces para aprender mucho
+15: mucho css control
